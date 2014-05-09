@@ -36,7 +36,7 @@ client.signin('<your-doit.im-mailaddress>', '<oyur-doit.im-password>', function(
 
 ## API
 
-### client.signin('<doit-im-mail>', '<doit-im-password>', function callback(){..})
+### client.signin('doit.im-mail', 'doit.im-password', function callback(){..})
 
 signup for http://doit.im.  
 callback format: `callback(err, token)`
