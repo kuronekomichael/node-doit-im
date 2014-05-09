@@ -1,0 +1,16 @@
+{
+  // include/exclude files/dirs in project
+  "folders":
+    [
+        {
+            "path": ".",
+            "folder_exclude_patterns": [],
+            "file_exclude_patterns": ["*.sublime-workspace"]
+        }
+    ],
+    // project unique settings
+    "settings": {
+    },
+    // project unique build systems
+    "build_systems": []
+}

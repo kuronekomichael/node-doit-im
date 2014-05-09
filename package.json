@@ -1,0 +1,35 @@
+{
+  "name": "doit-im",
+  "version": "0.1.0",
+  "description": "nodejs library for doit.im",
+  "main": "lib/doit-im.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kuronekomichael/node-doit-im.git"
+  },
+  "keywords": [
+    "doit.im",
+    "client"
+  ],
+  "author": "kuronekomichael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuronekomichael/node-doit-im/issues"
+  },
+  "homepage": "https://github.com/kuronekomichael/node-doit-im",
+  "dependencies": {
+    "moment": "^2.6.0",
+    "request": "^2.34.0",
+    "uuid": "^1.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/kuronekomichael/node-doit-im/issues"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "sinon": "^1.9.1"
+  }
+}
