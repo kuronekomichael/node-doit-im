@@ -36,16 +36,16 @@ client.signin('<your-doit.im-mailaddress>', '<oyur-doit.im-password>', function(
 
 ## API
 
-### client.signin(doit-im-mail, doit-im-password, callback)
+### client.signin('<doit-im-mail>', '<doit-im-password>', function callback(){..})
 
 signup for http://doit.im.  
 callback format: `callback(err, token)`
 
-### client.signout()
+### client.signout(function callback(){..})
 
 signout for http://doit.im
 
-### client.registerTask(task, callback)
+### client.registerTask(task, function callback(){..})
 
 register new task.
 
