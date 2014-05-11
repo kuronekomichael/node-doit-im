@@ -25,11 +25,9 @@
     "request": "^2.34.0",
     "uuid": "^1.4.1"
   },
-  "bugs": {
-    "url": "https://github.com/kuronekomichael/node-doit-im/issues"
-  },
   "devDependencies": {
     "chai": "^1.9.1",
+    "mocha": "^1.18.2",
     "sinon": "^1.9.1"
   }
 }
