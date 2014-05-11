@@ -1,6 +1,8 @@
 node-doit-im
 ============
 
+[![Build Status](https://travis-ci.org/kuronekomichael/node-doit-im.svg?branch=master)](https://travis-ci.org/kuronekomichael/node-doit-im)
+
 "UNOFFICIAL" node.js library for http://doit.im/
 
 ## Features
