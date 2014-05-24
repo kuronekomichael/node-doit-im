@@ -1,7 +1,10 @@
 node-doit-im
 ============
 
-[![Build Status](https://travis-ci.org/kuronekomichael/node-doit-im.svg?branch=master)](https://travis-ci.org/kuronekomichael/node-doit-im)
+[![NPM version][npm-badge]](http://badge.fury.io/js/doit-im)
+[![Build status][travis-badge]](https://travis-ci.org/kuronekomichael/node-doit-im)
+[npm-badge]: https://badge.fury.io/js/doit-im.png
+[travis-badge]: https://travis-ci.org/kuronekomichael/node-doit-im.png?branch=master
 
 "UNOFFICIAL" node.js library for http://doit.im/
 
